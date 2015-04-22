@@ -1,0 +1,10 @@
+1. We are using FLASK framework. So first you need to install Flask into your system.
+    sudo pip install Flask
+
+2. you need to start script from terminal. e.g. python app.py
+
+3. We have scripting for ODOO. so ODOO must be started. If not than start it first.
+
+4. In script you need to replace your odoo database name, user, pass, server IP etc.
+
+
